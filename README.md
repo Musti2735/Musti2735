@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">I'm a Jr.frontend developer from Turkey</h3>
+<h3 align="center">I'm a Web3 and Jr.frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Web3, Blockchain, JS and React**
 
