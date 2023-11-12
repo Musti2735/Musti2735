@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I'm a Jr.frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JS and React**
+- 🌱 I’m currently learning **Web3, Blockchain, JS and React**
 
-- 👯 I’m looking to collaborate on [https://www.patika.dev/tr](https://www.patika.dev/tr)
 
 - 📫 How to reach me **av.mustafaturk@hotmail.com**
 
