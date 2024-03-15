@@ -20,5 +20,5 @@ NEAR WEB3 PROCETS (https://github.com/Musti2735/NEAR-Poject-FootballPlayer) <br>
 JS PROJECTS (https://github.com/Musti2735/40-Days-JS-Projects)<br>
 REACT PROJECTS (https://github.com/Musti2735/react-calismalari)<br>
 HACKERRANK (https://github.com/Musti2735/JS-HackerRank)<br>
-This is my first real procejt using HTML-CSS-BootStrap (https://github.com/Musti2735/pastiamo-web-site)
+This is my first real project using HTML-CSS-BootStrap (https://github.com/Musti2735/pastiamo-web-site)
 
