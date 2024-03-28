@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Web3 and frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Web3, Blockchain, JS and React**
-
+  
+- 📚 I'm a graduate of Anadolu University's Web Design and Coding program.
 
 - 📫 How to reach me **av.mustafaturk@hotmail.com**
 
